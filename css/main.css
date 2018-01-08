@@ -45,7 +45,7 @@ main {
   color: #ede7c3;
 }
 
-nav{
+nav {
   list-style-type: none;
 }
 
@@ -290,7 +290,6 @@ footer img {
   h1 {
     text-align: left;
     float: left;
-
   }
 
   nav li {
@@ -309,7 +308,7 @@ footer img {
     margin-top: 1em;
   }
 
-  }
+}
 
 @media only screen and (min-width: 90em) {
 
