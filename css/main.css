@@ -143,7 +143,7 @@ div h3 {
   margin-bottom: 2em;
 }
 
-.img-tall-1, .img-tall-2, .img-wide {
+.img-tall, .img-wide {
   display: none;
 }
 
@@ -190,7 +190,7 @@ footer img {
   }
 
   .choc {
-    width: 40%;
+    width: 50%;
     float: left;
     margin-left: .5em;
     margin-right: .5em;
@@ -199,6 +199,7 @@ footer img {
   .choc-info {
     width: 50%;
     text-align: left;
+    padding-left: 1em;
   }
 
   .img-wide {
@@ -324,8 +325,7 @@ footer img {
 
   .img-tall {
     width: 49%;
-    margin: 0;
-    padding: 0;
+    display: inline-block;
   }
 
   footer img {
