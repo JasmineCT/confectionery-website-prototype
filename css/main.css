@@ -165,6 +165,24 @@ footer img {
   width: 50%;
 }
 
+.section-1 {
+  padding-left: 1em;
+}
+
+.btn {
+  padding-top: .4em;
+  padding-left: .4em;
+  padding-bottom: .4em;
+  padding-right: .4em;
+  border-radius: 8px;
+  margin-left: 1em;
+  font-size: 1.25rem;
+  display: inline-block;
+  list-style-type: none;
+  background-color: #975e2f;
+  color: #ede7c3;
+}
+
 @media only screen and (min-width: 25em) {
 
   h1, h2 {
